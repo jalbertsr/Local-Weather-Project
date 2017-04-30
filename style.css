@@ -1,0 +1,27 @@
+body{
+  no-repeat center center fixed: #000; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  font-family: 'Bree Serif', serif;
+  color:black;
+}
+div{
+  margin-top: 200px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px; 
+  height: 280px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 15px;
+}
+
+footer{
+  margin-top:80px;
+  text-align:center;
+  text-size: 10px;
+}
