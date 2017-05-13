@@ -6,4 +6,4 @@ The backgorund image changes depending on the weather!
 
 ![Web Screenshot](http://i.imgur.com/jHFE4KJ.png)
 
-I used the [OpenWeahterMap api](https://openweathermap.org/api) to get the data for the mini project.
+I used the [OpenWeatherMap api](https://openweathermap.org/api) to get the data for the mini project.
